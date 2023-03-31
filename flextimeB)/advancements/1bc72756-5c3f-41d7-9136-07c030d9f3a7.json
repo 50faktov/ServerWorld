@@ -299,9 +299,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2023-04-01 00:48:18 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2023-03-18 20:45:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2023-04-01 00:42:39 +0300"
     },
     "done": true
   },
@@ -781,6 +793,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2023-04-01 00:48:18 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-03-25 18:01:31 +0200"
@@ -823,15 +841,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2023-03-25 18:18:58 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2023-03-25 18:50:43 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/combat/spectral_arrow": {
+  "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
-      "has_glowstone_dust": "2023-03-25 18:18:58 +0200"
+      "has_rail": "2023-04-01 00:42:39 +0300"
     },
     "done": true
   },
@@ -1516,6 +1540,7 @@
       "minecraft:sparse_jungle": "2023-03-18 21:59:49 +0200",
       "minecraft:river": "2023-03-18 22:00:10 +0200",
       "minecraft:lukewarm_ocean": "2023-03-25 01:52:18 +0200",
+      "minecraft:swamp": "2023-04-01 00:36:54 +0300",
       "minecraft:forest": "2023-03-18 22:03:04 +0200",
       "minecraft:jungle": "2023-03-18 22:00:25 +0200",
       "minecraft:deep_lukewarm_ocean": "2023-03-25 01:52:25 +0200",
@@ -1563,6 +1588,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2023-03-18 20:47:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2023-04-01 00:42:39 +0300"
     },
     "done": true
   },
